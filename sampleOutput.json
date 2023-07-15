@@ -1,0 +1,536 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Shakiel Mahjouri",
+            "title": "UFC 285 results, highlights: Jon Jones earns heavyweight title with first-round submission of Ciryl Gane - CBS Sports",
+            "description": "Jones joins his rival Daniel Cormier in claiming both the light heavyweight and heavyweight titles in their careers",
+            "url": "https://www.cbssports.com/mma/news/ufc-285-results-highlights-jon-jones-earns-heavyweight-title-with-first-round-submission-of-ciryl-gane/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/05/6113a6d4-8ed7-4e94-959e-a14dbf6a322d/thumbnail/1200x675/a4d07b01f80853031c418f3a7c8ce41f/jon-jones-belt.jpg",
+            "publishedAt": "2023-03-05T12:30:00Z",
+            "content": "Jon Jones is your new UFC heavyweight champion and adds to his case for being the greatest fighter in mixed martial arts history. Jones locked in a guillotine choke on Ciryl Gane in the opening round… [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marianne Garvey",
+            "title": "Chris Rock tackles 'selective outrage' and Oscars slap in live Netflix special - CNN",
+            "description": "Chris Rock finally addressed the Oscars slap and made Netlfix history on Saturday.",
+            "url": "https://www.cnn.com/2023/03/04/entertainment/chris-rock-netflix-live-special/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230304233615-01-chris-rock-netflix-special-030423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-05T11:43:00Z",
+            "content": "Chris Rock finally addressed the Oscars slap and made Netflix history on Saturday, with the platforms first live global streaming event.\r\nIm going to try to do a show tonight without offending nobody… [+3177 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lily Kuo",
+            "title": "China pledges economic growth of about 5% in 2023 - The Washington Post",
+            "description": "The National People’s Congress opened in Beijing. China’s rubber-stamp parliament is expected to approve a government overhaul that extends Xi Jinping’s control.",
+            "url": "https://www.washingtonpost.com/world/2023/03/05/china-congress-economy-xi-jinping/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FXEKYZHXKABX6XGB3PICY3ATA.jpg&w=1440",
+            "publishedAt": "2023-03-05T10:02:00Z",
+            "content": "Comment on this story\r\nChina pledged to expand its economy by around 5 percent this year, a modest goal that underlines the challenges confronting Chinese President Xi Jinping in his third term, as h… [+4731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Ana Paula Pereira",
+            "title": "DOJ seeks to narrow Sam Bankman-Fried’s bail terms, use only flip phones - Cointelegraph",
+            "description": "The United States Department of Justice has proposed new bail conditions for former FTX CEO Sam Bankman-Fried.",
+            "url": "https://cointelegraph.com/news/u-s-attorney-seeks-to-narrow-sam-bankman-fried-s-bail-terms-use-only-flip-phones",
+            "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/dbf78cc0-f783-434f-92aa-ff6ffe51ad7a.jpg",
+            "publishedAt": "2023-03-05T09:57:20Z",
+            "content": "The United States Department of Justice has proposed new bail conditions for former FTX CEO Sam Bankman-Fried (SBF), a court filing on March 3 shows.\r\nAccording to the proposal submitted to Lewis Kap… [+2155 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mstyslav Chernov",
+            "title": "Civilians flee embattled town as Ukrainian pullout looms - The Associated Press - en Español",
+            "description": "KHROMOVE, Ukraine (AP) — Pressure from Russian forces mounted Saturday on Ukrainians hunkered down in Bakhmut, as residents attempted to flee with help from troops who Western analysts say may be preparing to withdraw from the key eastern stronghold .",
+            "url": "https://apnews.com/article/russia-ukraine-war-bakhmut-f893b10637da1b46939777379b5d9905",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d6e7b4c4c42940a89085a51e991fc43c/3000.webp",
+            "publishedAt": "2023-03-05T09:34:17Z",
+            "content": "KHROMOVE, Ukraine (AP) Pressure from Russian forces mounted Saturday on Ukrainians hunkered down in Bakhmut, as residents attempted to flee with help from troops who Western analysts say may be prepa… [+5459 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zachary Cohen, Aaron Pellish, Chloe Liu, Heather Chen",
+            "title": "US evaluating Ukrainian pilots for possible F-16 training - CNN",
+            "description": "The US is working with Ukrainian pilots in the United States to determine how long it would take to train them to fly F-16 fighter jets, three sources briefed on the matter told CNN.",
+            "url": "https://www.cnn.com/2023/03/05/world/us-ukraine-f16-pilots-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230213113503-f-16-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-05T06:55:00Z",
+            "content": "The US is working with Ukrainian pilots in the United States to determine how long it would take to train them to fly F-16 fighter jets, three sources briefed on the matter told CNN.\r\nTwo Ukrainian p… [+3061 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Another Norfolk Southern train derails in Ohio, railroad says no toxins aboard - Reuters",
+            "description": "A Norfolk Southern <a href=\"https://www.reuters.com/companies/NSC.N\" target=\"_blank\">(NSC.N)</a> train derailed in Ohio on Saturday, the second such incident involving the railroad in that state in about a month, prompting local officials to order residents l…",
+            "url": "https://www.reuters.com/world/us/another-norfolk-southern-train-derails-ohio-company-says-no-toxins-aboard-2023-03-05/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=132",
+            "publishedAt": "2023-03-05T06:34:00Z",
+            "content": "March 4 (Reuters) - A Norfolk Southern (NSC.N) train derailed in Ohio on Saturday, the second such incident involving the railroad in that state in about a month, prompting local officials to order r… [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Greece to wrap up search at train crash site as anger simmers - Reuters",
+            "description": "Rescuers continued digging through debris on Saturday at the site of Greece's worst train crash but were expected to wrap up their search operation later in the day.",
+            "url": "https://www.reuters.com/world/europe/greece-wrap-up-search-train-crash-site-grief-turns-anger-2023-03-04/",
+            "urlToImage": "https://www.reuters.com/resizer/UQ4_2z-K8lp8XNupnuWmG7uVk8A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OBPFJEPMP5O2JCO6RUDQJH6NO4.jpg",
+            "publishedAt": "2023-03-05T05:58:00Z",
+            "content": "ATHENS, March 4 (Reuters) - Rescuers continued digging through debris on Saturday at the site of Greece's worst train crash but were expected to wrap up their search operation later in the day.\r\nAt l… [+2402 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Will Weissert",
+            "title": "Marianne Williamson begins longshot 2024 challenge to Biden - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — Self-help author Marianne Williamson , whose 2020 White House campaign  featured more quirky calls for spiritual healing than actual voter support, launched another longshot bid for the presidency on Saturday, becoming the first Democrat to …",
+            "url": "https://apnews.com/article/marianne-williamson-president-2024-biden-democratic-primary-14e59754bed9e0c54dad4fdfbbc1fa6b",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/56e67a91c13347e69c608b7e19b1a6b7/3000.webp",
+            "publishedAt": "2023-03-05T05:46:27Z",
+            "content": "WASHINGTON (AP) Self-help author Marianne Williamson, whose 2020 White House campaign featured more quirky calls for spiritual healing than actual voter support, launched another longshot bid for the… [+5094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Brett Okamoto",
+            "title": "'I'm dreaming': Alexa Grasso dethrones Valentina Shevchenko - ESPN",
+            "description": "Alexa Grasso shocked the world at UFC 285 on Saturday night, submitting seven-time defending flyweight champion Valentina Shevchenko at the 4:34 mark of the fourth round, becoming the third Mexican-born champion to be crowned in 2023.",
+            "url": "https://www.espn.com/mma/story/_/id/35788214/alexa-grasso-dethrones-valentina-shevchenko",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0305%2Fr1139850_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-05T05:25:46Z",
+            "content": "LAS VEGAS -- The UFC has already crowned three Mexican-born champions in 2023 -- and the loudest of the three came at UFC 285 on Saturday.\r\nAlexa Grasso (16-3) shocked the world at UFC 286, as she su… [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Mike Vulpo, Gabrielle Chung",
+            "title": "Vanderpump Rules' Tom Sandoval Breaks Silence on Ariana Madix Split - E! NEWS",
+            "description": "Tom Sandoval spoke out after news of his breakup with Ariana Madix rocked the Vanderpump Rules community, including their fellow castmates. Get details on the split.",
+            "url": "https://www.eonline.com/news/1366851/vanderpump-rules-tom-sandoval-breaks-silence-on-ariana-madix-split",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202323/rs_1200x1200-230303175845-1200-Tom-Sandoval-Ariana-Madix.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-03-05T04:24:00Z",
+            "content": "Tom Sandovalis SUR-ving up a statement after splitting with Ariana Madix.\r\nOn March 4, the Vanderpump Rules star addressed the split that rocked both fans and castmates alike.\r\n\"Hey, I fully understa… [+751 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Nikki Battiste",
+            "title": "Alex Murdaugh trial: How Paul Murdaugh testified \"from the grave\" to help convict his father - CBS News",
+            "description": "Prosecutor in the Murdaugh case tells \"48 Hours\" Paul's cell phone video was him \"leaving something behind that let's you know what happened to him.\"",
+            "url": "https://www.cbsnews.com/news/alex-murdaugh-trial-paul-murdaugh-testified-from-grave-to-help-convict-father/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/05/e0271821-105f-4287-9477-4503596eab89/thumbnail/1200x630/cb25521f86796cdf9bb4f1f187d45ec3/murdaugh-trio.jpg",
+            "publishedAt": "2023-03-05T04:18:00Z",
+            "content": "It was a field trip to a ghost town.  Off a country road, the procession turned slowly up the long driveway of the imposing property. The convoy held the jury in the double murder trial of Alex Murda… [+34785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ocean treaty: Historic agreement reached after decade of talks - BBC",
+            "description": "Countries have reached a landmark agreement to put 30% of the world's oceans into protection.",
+            "url": "https://www.bbc.com/news/science-environment-64815782",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D1D/production/_128854651_gettyimages-452418175.jpg",
+            "publishedAt": "2023-03-05T03:55:18Z",
+            "content": "Nations have reached a historic agreement to protect the world's oceans following 10 years of negotiations.\r\nThe High Seas Treaty aims to place 30% of the seas into protected areas by 2030, to safegu… [+3731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Jeff Ermann",
+            "title": "Least heralded of three Maryland receivers stands out at NFL Draft Combine - 247Sports",
+            "description": "A solid day for three Terps.",
+            "url": "https://247sports.com/college/maryland/Article/Least-heralded-of-three-Maryland-receivers-stands-out-at-NFL-Draft-Combine-205713603/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/974/653/11653974.png?fit=bounds&crop=1200:630,offset-y0.50&width=1200&height=630",
+            "publishedAt": "2023-03-05T03:05:15Z",
+            "content": "One day after a pair of Maryland cornerbacks wowed there, three Maryland football receivers showcased their skills Saturday at the NFL Draft combine, and the lowest-profile of the three did the most … [+4064 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "China expands defense budget 7.2%, marking slight increase - The Associated Press - en Español",
+            "description": "China on Sunday announced a 7.2% increase in its defense budget for the coming year, up slightly from last year's 7.1% rate of increase.",
+            "url": "https://apnews.com/article/china-defense-budget-aircraft-carriers-cdac45c8d36a47cffda68be99b7c9ee7",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5d344f45685a4806aba1f1dd8b18ab6c/3000.webp",
+            "publishedAt": "2023-03-05T03:00:49Z",
+            "content": "China on Sunday announced a 7.2% increase in its defense budget for the coming year, up slightly from last years 7.1% rate of increase.\r\nThat marks the eighth consecutive year of single-digit percent… [+4411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas",
+            "title": "Most Memorable Spirit Awards Moments: ‘Everything Everywhere’ Sweep, Hasan Minhaj’s IFC Jab, Quinta Brunson’s Sweet Dedication - Hollywood Reporter",
+            "description": "From 'Everything Everywhere All at Once’ topping the ceremony with seven award wins to the host poking fun at the show's former network home, here are some of the night's most memorable moments.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/best-worst-moments-2023-spirit-awards-1235341109/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/Michelle-Yeoh-Ke-Huy-Quan-Hasan-Minhaj-Quinta-Brunson-Split-getty-h-2023.jpg?w=1024",
+            "publishedAt": "2023-03-05T01:49:26Z",
+            "content": "The 38th annual Film Independent Spirit Awards brought out smiles, laughter and tears from the presenters, winners, host and audience throughout the night. From comedian Hasan Minhaj joking about the… [+5113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Rishi Sunak vows to end asylum claims from small boat arrivals - BBC",
+            "description": "Anyone coming to the UK on a small boat will be removed to Rwanda or another country, under new laws.",
+            "url": "https://www.bbc.com/news/uk-64848101",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11E47/production/_122278237_gettyimages-1236771382.jpg",
+            "publishedAt": "2023-03-05T01:40:54Z",
+            "content": "Anyone arriving in the UK on a small boat will be prevented from claiming asylum, under new laws expected to be announced next week.\r\nMinisters will have a duty to \"detain and swiftly remove\" anyone … [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jon LaPook",
+            "title": "Promising drug could provide alternative to statins for those at risk of heart disease, new study finds - CBS News",
+            "description": "Bempedoic acid was approved by the FDA in 2020 as a way to reduce LDL cholesterol levels.",
+            "url": "https://www.cbsnews.com/news/promising-drug-bempedoic-acid-possible-alternative-statins-heart-disease-new-study/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4750e946-e276-4336-a51f-df691cb9b33c/thumbnail/1200x630/078c474535e4a52e7298de6fe260dab6/lapook-1768210-640x360.jpg",
+            "publishedAt": "2023-03-05T01:28:11Z",
+            "content": "A new study has found that a drug could replace statins for those who cannot tolerate them, a promising finding for millions of people who are at risk of heart disease. \r\nThe study, published in the … [+1939 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anumita Kaur",
+            "title": "Arrest warrant issued for woman with tuberculosis who refused treatment - The Washington Post",
+            "description": "The warrant authorized police to detain the woman and transport her to a facility in Pierce County for isolation, testing and treatment.",
+            "url": "https://www.washingtonpost.com/health/2023/03/04/tuberculosis-woman-arrest-refusing-treatment/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LT4I5BH2HEI6THQCDVC4WPP2R4.jpg&w=1440",
+            "publishedAt": "2023-03-05T00:14:51Z",
+            "content": "Comment on this story\r\nA Washington state judge has issued an arrest warrant for a woman who has refused for more than a year to isolate or receive treatment for her tuberculosis, health officials sa… [+3080 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Victoria Hernandez",
+            "title": "Anthony Richardson sets multiple QB records at NFL combine - USA TODAY",
+            "description": "Florida's Anthony Richardson sets quarterback records for broad jump and vertical jump and has fourth-best 40-yard time since 2003 at the NFL combine.",
+            "url": "https://www.usatoday.com/story/sports/nfl/2023/03/04/anthony-richardson-sets-multiple-qb-records-nfl-combine/11401645002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/04/NTGG/45060f99-e777-451a-ab58-88375a230249-USATSI_20133228.jpg?crop=5471,3078,x0,y278&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2023-03-05T00:01:34Z",
+            "content": "There is a lot of hype surrounding Ohio State quarterback C.J. Stroud and Alabama quarterback Bryce Young heading into the NFL draft.\r\nBut the star of the NFL combine on Saturday at Lucas Oil Stadium… [+2470 chars]"
+        }
+    ]
+}
+
+
+
+
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mapsofindia.com",
+            "title": "According to Huygens principle, the amplitude of secondary wavelets is - Mapsofindia.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm1hcHNvZmluZGlhLmNvbS9teS1pbmRpYS9xdWl6L2FjY29yZGluZy10by1odXlnZW5zLXByaW5jaXBsZS10aGUtYW1wbGl0dWRlLW9mLXNlY29uZGFyeS13YXZlbGV0cy1pcy0y0gF1aHR0cHM6Ly93d3cubWFwc29maW5kaWEuY29tL215LWluZGlhL3F1aXovYWNjb3JkaW5nLXRvLWh1eWdlbnMtcHJpbmNpcGxlLXRoZS1hbXBsaXR1ZGUtb2Ytc2Vjb25kYXJ5LXdhdmVsZXRzLWlzLTI_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T12:28:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Udayavani English",
+            "title": "There is no need to panic over H3N2 virus infection: Karnataka Health Minister - Udayavani English",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnVkYXlhdmFuaS5jb20vZW5nbGlzaC1uZXdzL3RoZXJlLWlzLW5vLW5lZWQtdG8tcGFuaWMtb3Zlci1oM24yLXZpcnVzLWluZmVjdGlvbi1rYXJuYXRha2EtaGVhbHRoLW1pbmlzdGVy0gF0aHR0cHM6Ly93d3cudWRheWF2YW5pLmNvbS9lbmdsaXNoLW5ld3MvdGhlcmUtaXMtbm8tbmVlZC10by1wYW5pYy1vdmVyLWgzbjItdmlydXMtaW5mZWN0aW9uLWthcm5hdGFrYS1oZWFsdGgtbWluaXN0ZXI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T12:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Deccan Herald",
+            "title": "LifeBoost Keto ACV Gummies Shocking Benefits Reviews [Keto+ACV LifeBoost Gummies] Life Boost Keto ACV Gummies 2023 SCAM EXPOSED! - Deccan Herald",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5kZWNjYW5oZXJhbGQuY29tL2JyYW5kc3BvdC9wci1zcG90L2xpZmVib29zdC1rZXRvLWFjdi1ndW1taWVzLXNob2NraW5nLWJlbmVmaXRzLXJldmlld3Mta2V0b2Fjdi1saWZlYm9vc3QtZ3VtbWllcy1saWZlLWJvb3N0LWtldG8tYWN2LWd1bW1pZXMtMjAyMy1zY2FtLWV4cG9zZWQtMTE5NzcxMC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T11:27:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "What is the 'Hindu rate of growth' that Raghuram Rajan is warning about - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L3JhZ2h1cmFtLXJhamFuLWhpbmR1LXJhdGUtb2YtZ3Jvd3RoLXdoYXQtZG9lcy1pdC1tZWFuLWluZGlhbi1lY29ub215LWdkcC1uc3NvLWRhdGEtMjM0MzI3OC0yMDIzLTAzLTA20gGPAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2luZGlhL3N0b3J5L3JhZ2h1cmFtLXJhamFuLWhpbmR1LXJhdGUtb2YtZ3Jvd3RoLXdoYXQtZG9lcy1pdC1tZWFuLWluZGlhbi1lY29ub215LWdkcC1uc3NvLWRhdGEtMjM0MzI3OC0yMDIzLTAzLTA2?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T11:14:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "Closing Bell: Nifty ends above 17,700, Sensex up 415 pts; IT, auto, oil & gas, power gain - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihQJodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvbWFya2V0cy9zaGFyZS1tYXJrZXQtbGl2ZS11cGRhdGVzLXN0b2NrLW1hcmtldC10b2RheS1tYXJjaC02LWxhdGVzdC1uZXdzLWJzZS1uc2Utc2Vuc2V4LW5pZnR5LWNvdmlkLWNvcm9uYXZpcnVzLWluZm8tZWRnZS10ZXhtYWNvLWluZnJhLWhkZmMtY3Jlc3NhbmRhLXNvbHV0aW9ucy1mb3JjZS1tb3RvcnMtbWFoYW5hZ2FyLWdhcy1zYXRpbi1jcmVkaXRjYXJlLTEwMjAzNzkxLmh0bWzSAYkCaHR0cHM6Ly93d3cubW9uZXljb250cm9sLmNvbS9uZXdzL2J1c2luZXNzL21hcmtldHMvc2hhcmUtbWFya2V0LWxpdmUtdXBkYXRlcy1zdG9jay1tYXJrZXQtdG9kYXktbWFyY2gtNi1sYXRlc3QtbmV3cy1ic2UtbnNlLXNlbnNleC1uaWZ0eS1jb3ZpZC1jb3JvbmF2aXJ1cy1pbmZvLWVkZ2UtdGV4bWFjby1pbmZyYS1oZGZjLWNyZXNzYW5kYS1zb2x1dGlvbnMtZm9yY2UtbW90b3JzLW1haGFuYWdhci1nYXMtc2F0aW4tY3JlZGl0Y2FyZS0xMDIwMzc5MS5odG1sL2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:55:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Delhi excise policy case: Timeline of how Manish Sisodia landed in jail - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvZGVsaGktZXhjaXNlLXBvbGljeS1jYXNlLXRpbWVsaW5lLW9mLWhvdy1tYW5pc2gtc2lzb2RpYS1sYW5kZWQtaW4tamFpbC0xMDE2NzgwOTU5MzgwNDYuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vY2l0aWVzL2RlbGhpLW5ld3MvZGVsaGktZXhjaXNlLXBvbGljeS1jYXNlLXRpbWVsaW5lLW9mLWhvdy1tYW5pc2gtc2lzb2RpYS1sYW5kZWQtaW4tamFpbC0xMDE2NzgwOTU5MzgwNDYtYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:52:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Kangana is happy as Nawaz breaks silence over feud with ex-wife - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2Qva2FuZ2FuYS1yYW5hdXQtaXMtaGFwcHktYXMtbmF3YXp1ZGRpbi1zaWRkaXF1aS1icmVha3Mtc2lsZW5jZS1vdmVyLWZldWQtd2l0aC1leHdpZmUtMTAxNjc4MDk2MDEyMjM1Lmh0bWzSAaMBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2VudGVydGFpbm1lbnQvYm9sbHl3b29kL2thbmdhbmEtcmFuYXV0LWlzLWhhcHB5LWFzLW5hd2F6dWRkaW4tc2lkZGlxdWktYnJlYWtzLXNpbGVuY2Utb3Zlci1mZXVkLXdpdGgtZXh3aWZlLTEwMTY3ODA5NjAxMjIzNS1hbXAuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:35:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Indiatimes.com",
+            "title": "Why you shouldn’t ignore the health of your kidneys - Indiatimes.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3doeS15b3Utc2hvdWxkbnQtaWdub3JlLXRoZS1oZWFsdGgtb2YteW91ci1raWRuZXlzL3Bob3Rvc3RvcnkvOTg0NTEzNjEuY21z0gGRAWh0dHBzOi8vbS50aW1lc29maW5kaWEuY29tL2xpZmUtc3R5bGUvaGVhbHRoLWZpdG5lc3MvaGVhbHRoLW5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtdGhlLWhlYWx0aC1vZi15b3VyLWtpZG5leXMvYW1wX2V0cGhvdG9zdG9yeS85ODQ1MTM2MS5jbXM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:30:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Deccan Herald",
+            "title": "India Political Updates: Just like parties have youth wing, there is a CBI wing now, says AAP on Sisodia case - Deccan Herald",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5kZWNjYW5oZXJhbGQuY29tL25hdGlvbmFsLXBvbGl0aWNzL21hbmlzaC1zaXNvZGlhLWFhcC1hcnJlc3QtZWQtY2JpLW9wcG9zaXRpb24tY29uZ3Jlc3MtcmFodWwtZ2FuZGhpLWJqcC1uYXJlbmRyYS1tb2RpLWFtaXQtc2hhaC1zaGl2LXNlbmEtMTE5NzU4OC5odG1s0gGnAWh0dHBzOi8vd3d3LmRlY2NhbmhlcmFsZC5jb20vYW1wL25hdGlvbmFsLXBvbGl0aWNzL21hbmlzaC1zaXNvZGlhLWFhcC1hcnJlc3QtZWQtY2JpLW9wcG9zaXRpb24tY29uZ3Jlc3MtcmFodWwtZ2FuZGhpLWJqcC1uYXJlbmRyYS1tb2RpLWFtaXQtc2hhaC1zaGl2LXNlbmEtMTE5NzU4OC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Movies",
+            "title": "Amitabh Bachchan Injured During Project K Action Scene In Hyderabad: \"Movement And Breathing Painful\" - NDTV Movies",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5uZHR2LmNvbS9lbnRlcnRhaW5tZW50L2FtaXRhYmgtYmFjaGNoYW4taW5qdXJlZC1kdXJpbmctc2hvb3RpbmctaW4taHlkZXJhYmFkLXNheXMtaW0tbW9iaWxlLWEtYml0LWZvci1hbGwtZXNzZW50aWFsLWFjdGl2aXRpZXMtaW4tcmVzdC0zODM3NTI20gGgAWh0dHBzOi8vd3d3Lm5kdHYuY29tL2VudGVydGFpbm1lbnQvYW1pdGFiaC1iYWNoY2hhbi1pbmp1cmVkLWR1cmluZy1zaG9vdGluZy1pbi1oeWRlcmFiYWQtc2F5cy1pbS1tb2JpbGUtYS1iaXQtZm9yLWFsbC1lc3NlbnRpYWwtYWN0aXZpdGllcy1pbi1yZXN0LTM4Mzc1MjYvYW1wLzE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Business Standard",
+            "title": "Apples iPhone 15 Pro models front glass leak reveals ultra-thin bezels - Business Standard",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L2FwcGxlLXMtaXBob25lLTE1LXByby1tb2RlbHMtZnJvbnQtZ2xhc3MtbGVhay1yZXZlYWxzLXVsdHJhLXRoaW4tYmV6ZWxzLTEyMzAzMDYwMDE0OF8xLmh0bWzSAZQBaHR0cHM6Ly93YXAuYnVzaW5lc3Mtc3RhbmRhcmQuY29tL2FydGljbGUtYW1wL3RlY2hub2xvZ3kvYXBwbGUtcy1pcGhvbmUtMTUtcHJvLW1vZGVscy1mcm9udC1nbGFzcy1sZWFrLXJldmVhbHMtdWx0cmEtdGhpbi1iZXplbHMtMTIzMDMwNjAwMTQ4XzEuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T10:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "OpIndia",
+            "title": "Vijay Kumar was named Usman by Atiq Ahmed, killed in an encounter: UP Police to include his religious conversion under the ambit of investigation - OpIndia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lm9waW5kaWEuY29tLzIwMjMvMDMvdmlqYXkta3VtYXItbmFtZWQtdXNtYW4tYnktYXRpcS1haG1lZC11cC1wb2xpY2UtcmVsaWdpb3VzLWNvbnZlcnNpb24taW52ZXN0aWdhdGlvbi_SAbMBaHR0cHM6Ly93d3cub3BpbmRpYS5jb20vMjAyMy8wMy92aWpheS1rdW1hci1uYW1lZC11c21hbi1ieS1hdGlxLWFobWVkLXVwLXBvbGljZS1yZWxpZ2lvdXMtY29udmVyc2lvbi1pbnZlc3RpZ2F0aW9uL2FtcC8_dXRtX3NvdXJjZT1KaW9OZXdzJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPUppb05ld3M?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T09:57:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "Bholaa trailer: Ajay Devgn is back as an action star but it’s Tabu who packs the hardest punch - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihgFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYmhvbGFhLXRyYWlsZXItYWpheS1kZXZnbi1iYWNrLWFjdGlvbi1zdGFyLXRhYnUtcGFja3MtaGFyZGVzdC1wdW5jaC04NDgxNjIyL9IBiwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYmhvbGFhLXRyYWlsZXItYWpheS1kZXZnbi1iYWNrLWFjdGlvbi1zdGFyLXRhYnUtcGFja3MtaGFyZGVzdC1wdW5jaC04NDgxNjIyL2xpdGUv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T09:20:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Financial Express",
+            "title": "Vivo V27 Pro versus OnePlus 11R: Every difference that you wanted to know - The Financial Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9saWZlL3RlY2hub2xvZ3ktdml2by12MjctcHJvLXZlcnN1cy1vbmVwbHVzLTExci1ldmVyeS1kaWZmZXJlbmNlLXRoYXQteW91LXdhbnRlZC10by1rbm93LTMwMDEwMTIv0gGHAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2xpZmUvdGVjaG5vbG9neS12aXZvLXYyNy1wcm8tdmVyc3VzLW9uZXBsdXMtMTFyLWV2ZXJ5LWRpZmZlcmVuY2UtdGhhdC15b3Utd2FudGVkLXRvLWtub3ctMzAwMTAxMi9saXRlLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T09:15:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Devdiscourse",
+            "title": "Hubble spots a meandering spiral galaxy 110 million light-years from Earth - Devdiscourse",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5kZXZkaXNjb3Vyc2UuY29tL2FydGljbGUvc2NpZW5jZS1lbnZpcm9ubWVudC8yMzY5NDg3LWh1YmJsZS1zcG90cy1hLW1lYW5kZXJpbmctc3BpcmFsLWdhbGF4eS0xMTAtbWlsbGlvbi1saWdodC15ZWFycy1mcm9tLWVhcnRo0gGPAWh0dHBzOi8vd3d3LmRldmRpc2NvdXJzZS5jb20vYXJ0aWNsZS9zY2llbmNlLWVudmlyb25tZW50LzIzNjk0ODctaHViYmxlLXNwb3RzLWEtbWVhbmRlcmluZy1zcGlyYWwtZ2FsYXh5LTExMC1taWxsaW9uLWxpZ2h0LXllYXJzLWZyb20tZWFydGg_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T09:07:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The News Minute",
+            "title": "‘Cannot equate Asianet raids to BBC raids’: Kerala CM Pinarayi Vijayan - The News Minute",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnRoZW5ld3NtaW51dGUuY29tL2FydGljbGUvY2Fubm90LWVxdWF0ZS1hc2lhbmV0LXJhaWRzLWJiYy1yYWlkcy1rZXJhbGEtY20tcGluYXJheWktdmlqYXlhbi0xNzQxMzLSAXFodHRwczovL3d3dy50aGVuZXdzbWludXRlLmNvbS9hcnRpY2xlL2Nhbm5vdC1lcXVhdGUtYXNpYW5ldC1yYWlkcy1iYmMtcmFpZHMta2VyYWxhLWNtLXBpbmFyYXlpLXZpamF5YW4tMTc0MTMyP2FtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T09:06:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "International Women’s Day on Vijay sales: Best offers on Apple iPhone, iPad, and more - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvdGVjaG5vbG9neS90ZWNoLW5ld3MtdGVjaG5vbG9neS9pbnRlcm5hdGlvbmFsLXdvbWVucy1kYXktc2FsZS1vZmZlcnMtb24tYXBwbGUtcHJvZHVjdHMtODQ4MTc0MS_SAYYBaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL3RlY2hub2xvZ3kvdGVjaC1uZXdzLXRlY2hub2xvZ3kvaW50ZXJuYXRpb25hbC13b21lbnMtZGF5LXNhbGUtb2ZmZXJzLW9uLWFwcGxlLXByb2R1Y3RzLTg0ODE3NDEvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T08:54:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Royal Challengers Bangalore",
+            "title": "RCB v DC MI v RCB: Game Day - Royal Challengers Bangalore",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiC3duNC1GcEZXNE4wmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T08:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Times of India",
+            "title": "Man dies after contracting brain-eating infection from rinsing sinuses with tap water - Times of India",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitwFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL21hbi1kaWVzLWFmdGVyLWNvbnRyYWN0aW5nLWJyYWluLWVhdGluZy1pbmZlY3Rpb24tZnJvbS1yaW5zaW5nLXNpbnVzZXMtd2l0aC10YXAtd2F0ZXIvcGhvdG9zdG9yeS85ODQ0NjY1Ni5jbXPSAbQBaHR0cHM6Ly9tLnRpbWVzb2ZpbmRpYS5jb20vbGlmZS1zdHlsZS9oZWFsdGgtZml0bmVzcy9oZWFsdGgtbmV3cy9tYW4tZGllcy1hZnRlci1jb250cmFjdGluZy1icmFpbi1lYXRpbmctaW5mZWN0aW9uLWZyb20tcmluc2luZy1zaW51c2VzLXdpdGgtdGFwLXdhdGVyL2FtcF9ldHBob3Rvc3RvcnkvOTg0NDY2NTYuY21z?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "\"This Is Wrong, Humiliating\": Arvind Kejriwal On CBI Questioning Rabri Devi - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvdGhpcy1pcy13cm9uZy1odW1pbGlhdGluZy1hcnZpbmQta2Vqcml3YWwtb24tY2JpLXF1ZXN0aW9uaW5nLXJhYnJpLWRldmktMzgzNzk2NdIBdWh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvdGhpcy1pcy13cm9uZy1odW1pbGlhdGluZy1hcnZpbmQta2Vqcml3YWwtb24tY2JpLXF1ZXN0aW9uaW5nLXJhYnJpLWRldmktMzgzNzk2NS9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-06T07:55:50Z",
+            "content": null
+        }
+    ]
+}

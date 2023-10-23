@@ -29,7 +29,7 @@ import { Link } from "react-router-dom";
 
 
                 <li className="nav-item"><Link className="nav-link" to="/business">business</Link></li>
-                <li className="nav-item"><Link className="nav-link" to="/entertainment">entertainment</Link></li>
+                <li className="nav-item"><Link className="nav-link" to="/entertainment">Cinema</Link></li>
                 {/* <li className="nav-item"><Link className="nav-link" href="/general">general</Link></li> */}
                 <li className="nav-item"><Link className="nav-link" to="/health">health</Link></li>
                 <li className="nav-item"><Link className="nav-link" to="/science">science</Link></li>
